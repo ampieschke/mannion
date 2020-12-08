@@ -1,0 +1,22 @@
+h1{
+    font-weight: bold !important;
+}
+
+.right-side{
+    float: right;
+    width: 20%;
+    margin: 10px;
+
+}
+
+.main{
+    float: left;
+    width: 80%;
+    margin: 10px;
+}
+
+.btn{
+    background-color: darkgreen !important;
+    border: darkgreen !important;
+    color: white !important;
+}
